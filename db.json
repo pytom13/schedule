@@ -1,0 +1,44 @@
+{
+  "events": [
+    {
+      "id": 123,
+      "category": "game",
+      "title": "Team 1 vs Team 2",
+      "description": "Game 1 - T1 vs. T2",
+      "location": "Ferry",
+      "date": "April 28, 2021",
+      "time": "5:30",
+      "organizer": "GLL"
+    },
+    {
+      "id": 456,
+      "category": "game",
+      "title": "Team 3 vs Team 4",
+      "description": "Game 1 - T3 vs. T4",
+      "location": "Miner",
+      "date": "April 28, 2021",
+      "time": "5:30",
+      "organizer": "GLL"
+    },
+    {
+      "id": 789,
+      "category": "game",
+      "title": "Team 1 vs Team 3",
+      "description": "Game 2 - T1 vs. T3",
+      "location": "Ferry",
+      "date": "May 1, 2021",
+      "time": "4:00",
+      "organizer": "GLL"
+    },
+    {
+      "id": 234,
+      "category": "game",
+      "title": "Team 2 vs Team 4",
+      "description": "Game 2 - T2 vs. T4",
+      "location": "Miner",
+      "date": "May 1, 2021",
+      "time": "4:00",
+      "organizer": "GLL"
+    }
+  ]
+}
